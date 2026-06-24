@@ -2,10 +2,10 @@
 
 ## 1. 💻 Ejercicios de Python
 
-En este proyecto se consideraron funciones en Python para control de errores, manipulación de listas y creación de clases para representar objetos del mundo real. El problema general que se resuelve es la automatización de tareas repetitivas y la manipulación eficiente de información mediante programas claros, reutilizables y seguros.
+En este proyecto se consideraron funciones en Python para el control de errores, manipulación de listas y creación de clases para representar objetos del mundo real. El problema general que se resuelve es la automatización de tareas repetitivas y la manipulación eficiente de información mediante programas claros, reutilizables y seguros.
 
 ### 2. 📖 Descripción del proyecto
-Este proyecto consiste en la creación de una serie de ejercicios que abarcan el manejo de datos, procesamiento de textos, uso de funciones avanzadas, control de errores, manipulación de listas y creación de clases para representar objetos del mundo real.
+Este proyecto consiste en resolución de ejercicios que abarcan el manejo de datos, procesamiento de textos, uso de funciones, control de errores, manipulación de listas y creación de clases para representar objetos del mundo real.
 
 #### Objetivo del proyecto
 
