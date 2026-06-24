@@ -1,4 +1,4 @@
-# Proyecto-kata-python
+# Proyecto-katas-python
 
 ## 1. 💻 Ejercicios de Python
 
